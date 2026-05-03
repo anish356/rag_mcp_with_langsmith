@@ -1,0 +1,11 @@
+fastapi
+pydantic
+groq
+langsmith
+python-dotenv
+fastmcp
+ddgs
+streamlit
+requests
+langgraph
+uvicorn
