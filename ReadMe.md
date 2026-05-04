@@ -170,19 +170,6 @@ def run_workflow(query):
 python test.py
 ```
 
----
-
-## 🔮 Future Improvements
-
-* Add vector database (FAISS / Pinecone)
-* Improve retrieval accuracy
-* Add authentication
-* Deploy to cloud (AWS / GCP)
-* Enhance UI/UX
-* Add evaluation pipelines using LangSmith
-
----
-
 ## 👤 Author
 
 **Anish Yadav**
